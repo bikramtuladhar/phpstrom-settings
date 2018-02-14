@@ -22,7 +22,7 @@
           </record-format>
         </data>
       </csv-format>
-      <csv-format name="Comma-separated (CSV)" id="Comma-separated (CSV)_id">
+      <csv-format name="Comma-separated (CSV)" id="Comma-separated (CSV)_id" row-numbers="true">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
             <quotation>
