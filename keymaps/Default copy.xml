@@ -6,14 +6,5 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="Console.Execute.Multiline" />
-  <action id="Console.Jdbc.Execute" />
-  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorSelectWord" />
-  <action id="EditorSplitLine" />
-  <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="control button1" />
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-  </action>
-  <action id="ViewSource" />
 </keymap>
